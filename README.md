@@ -1,22 +1,13 @@
-
-                                                                                     BISMARK GONZALES SOLIZ     
+# BISMARK GONZALES SOLIZ
 
 ![Software Development Logo](https://i.imgur.com/6QGXpoP.png)
 
+## Estudiante de Ingeniería en Sistemas
 
+---
 
+###     Estaba escribiendo un programa que debería hacer todo bien...  
+### y terminó haciendo todo lo que no esperaba, de la forma que no quería,  
+###                    y sin que yo lo pidiera.
 
-Estudiante de Ingeneria en Sistemas
-
-
-
-
-
-
-
-
-                  Estaba escribiendo un programa que debería hacer todo bien... 
-y terminó haciendo todo lo que no esperaba, de la forma que no quería, y sin que yo lo pidiera."
-
-                                "Lo llamé... innovación."😎
-
+####                 Lo llamé... **innovación**. 😎
