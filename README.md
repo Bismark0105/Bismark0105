@@ -1,6 +1,6 @@
 # BISMARK GONZALES SOLIZ
 
-![Software Development Logo](https://i.imgur.com/6QGXpoP.png)
+![Software Development Logo](https://i.imgur.com/QEWu47a.png)
 
 ## Estudiante de Ingeniería en Sistemas
 
