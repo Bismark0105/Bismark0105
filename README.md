@@ -1,3 +1,5 @@
+
+<div align="center">
 # BISMARK GONZALES SOLIZ
 
 ![Software Development Logo](https://i.imgur.com/QEWu47a.png)
